@@ -96,3 +96,6 @@ void displaycart()
     return;
 }
 
+void display(){
+    printf("helo display function")
+}
