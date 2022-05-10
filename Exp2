@@ -73,3 +73,8 @@ int main()
 
 return a+b=c+d
 return c+d=d+e
+
+
+void add(a,b){
+    return a+b
+}
