@@ -99,3 +99,7 @@ void displaycart()
 void display(){
     printf("helo display function")
 }
+
+void run(){
+    printf("hello run function")
+}
